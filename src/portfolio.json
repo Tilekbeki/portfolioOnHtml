@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Виферон",
+        "descr": "Лендинг про мазь от вирусов",
+        "link": "https://tilekbeki.github.io/virus/",
+        "img": "img/works/viferon.jpg"
+    },
+    {
+        "name": "Проект 2",
+        "descr": "Описание проекта 2",
+        "link": "http://example.com/project2",
+        "img": "img/works/ipad.jpg"
+    },
+    {
+        "name": "Проект 1",
+        "descr": "Описание проекта 1",
+        "link": "http://example.com/project1",
+        "img": "img/works/bread.jpg"
+    },
+    {
+        "name": "Проект 1",
+        "descr": "Описание проекта 1",
+        "link": "http://example.com/project1",
+        "img": "img/works/bread.jpg"
+    },
+    {
+        "name": "Виферон",
+        "descr": "Лендинг про мазь от вирусов",
+        "link": "https://tilekbeki.github.io/virus/",
+        "img": "img/works/bread.jpg"
+    }
+]

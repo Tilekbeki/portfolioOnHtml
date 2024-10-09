@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Виферон",
+        "descr": "Лендинг про мазь от вирусов",
+        "link": "https://tilekbeki.github.io/virus/",
+        "img": "img/works/viferon.jpg"
+    },
+    {
+        "name": "Dona",
+        "descr": "Лендинг про ДОКАЗАТЕЛЬНАЯ МЕДИЦИНА В ТЕРАПИИ ОСТЕОАРТРИТА",
+        "link": "https://tilekbeki.github.io/testing/",
+        "img": "img/works/Dona.jpg"
+    },
+    {
+        "name": "Трудности перевода",
+        "descr": "Описание проекта 1",
+        "link": "https://tilekbeki.github.io/Servier/src/",
+        "img": "img/works/bread.jpg"
+    },
+    {
+        "name": "Гастрарекс",
+        "descr": "Описание проекта 1",
+        "link": "https://tilekbeki.github.io/Unipharm-new/",
+        "img": "img/works/bread.jpg"
+    },
+    {
+        "name": "Виферон",
+        "descr": "Лендинг про мазь от вирусов",
+        "link": "https://tilekbeki.github.io/virus/",
+        "img": "img/works/bread.jpg"
+    },
+    {
+        "name": "Evusheld",
+        "descr": "Лендинг про мазь от вирусов",
+        "link": "https://tilekbeki.github.io/virus/",
+        "img": "img/works/Evusheld.jpg"
+    }
+]
