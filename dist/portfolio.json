@@ -3,7 +3,7 @@
         "name": "Виферон",
         "descr": "Лендинг про мазь от вирусов",
         "link": "https://tilekbeki.github.io/virus/",
-        "img": "img/works/viferon.jpg"
+        "img": "img/works/virus.jpg"
     },
     {
         "name": "Dona",
@@ -12,27 +12,51 @@
         "img": "img/works/Dona.jpg"
     },
     {
+        "name": "MyMedGram",
+        "descr": "Описание проекта 1",
+        "link": "https://tilekbeki.github.io/MyMedGram/",
+        "img": "img/works/mymedgram.jpg"
+    },
+    {
         "name": "Трудности перевода",
         "descr": "Описание проекта 1",
         "link": "https://tilekbeki.github.io/Servier/src/",
-        "img": "img/works/bread.jpg"
+        "img": "img/works/tripliksam.jpg"
     },
     {
         "name": "Гастрарекс",
         "descr": "Описание проекта 1",
         "link": "https://tilekbeki.github.io/Unipharm-new/",
-        "img": "img/works/bread.jpg"
-    },
-    {
-        "name": "Виферон",
-        "descr": "Лендинг про мазь от вирусов",
-        "link": "https://tilekbeki.github.io/virus/",
-        "img": "img/works/bread.jpg"
+        "img": "img/works/gastrareks.jpg"
     },
     {
         "name": "Evusheld",
         "descr": "Лендинг про мазь от вирусов",
         "link": "https://tilekbeki.github.io/virus/",
         "img": "img/works/Evusheld.jpg"
+    },
+    {
+        "name": "Ubber",
+        "descr": "Лендинг про мазь от вирусов",
+        "link": "https://tilekbeki.github.io/ubber/src/",
+        "img": "img/works/ubber.jpg"
+    },
+    {
+        "name": "Pnevmat312",
+        "descr": "Лендинг про мазь от вирусов",
+        "link": "https://tilekbeki.github.io/ubber/src/",
+        "img": "img/works/pnevmat312.jpg"
+    },
+    {
+        "name": "Marvel portal",
+        "descr": "Лендинг про мазь от вирусов",
+        "link": "https://tilekbeki.github.io/marvelService/",
+        "img": "img/works/marvel.jpg"
+    },
+    {
+        "name": "Викторина",
+        "descr": "Лендинг про мазь от вирусов",
+        "link": "https://tilekbeki.github.io/russianVictorina/src/",
+        "img": "img/works/victorina russian.jpg"
     }
 ]

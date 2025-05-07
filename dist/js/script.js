@@ -12,12 +12,12 @@ closeElem.addEventListener('click', ()=>{
     menu.classList.remove('active');
 });
 
-const counters = document.querySelectorAll('.skills__ratings-counter'),
-      lines = document.querySelectorAll('.skills__ratings-line span');
+// const counters = document.querySelectorAll('.skills__ratings-counter'),
+//       lines = document.querySelectorAll('.skills__ratings-line span');
 
-      counters.forEach((item,i)=>{
-        lines[i].style.width = item.innerHTML;//вытащили содержимео span и дали его в ширину
-    });
+//       counters.forEach((item,i)=>{
+//         lines[i].style.width = item.innerHTML;//вытащили содержимео span и дали его в ширину
+//     });
 
 fetch('portfolio.json')
     .then(response => {
@@ -29,12 +29,22 @@ fetch('portfolio.json')
     .then(data => {
         console.log(data);
         const portfolioContent = document.querySelector('.portfolio__wrapper');
-        data.forEach(item=>{
+        data.forEach((item,i)=>{
+            console.log(i)
             // Создаем элемент <a>
             const portfolioItem = document.createElement('a');
             portfolioItem.href = '#';
-            portfolioItem.className = 'portfolio__item';
-
+            
+            
+            if(i==3) {
+                portfolioItem.className = 'portfolio__item vertical';
+            } 
+            else {
+                portfolioItem.className = 'portfolio__item';
+            }
+            if(i==5) {
+                portfolioItem.className = 'portfolio__item horizonal' ;
+            } 
             // Создаем элемент <img>
             const img = document.createElement('img');
             img.src = item.img; // Предполагаем, что в JSON есть поле image

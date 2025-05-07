@@ -6,21 +6,27 @@
         "img": "img/works/viferon.jpg"
     },
     {
-        "name": "Проект 2",
-        "descr": "Описание проекта 2",
-        "link": "http://example.com/project2",
-        "img": "img/works/ipad.jpg"
+        "name": "Dona",
+        "descr": "Лендинг про ДОКАЗАТЕЛЬНАЯ МЕДИЦИНА В ТЕРАПИИ ОСТЕОАРТРИТА",
+        "link": "https://tilekbeki.github.io/testing/",
+        "img": "img/works/Dona.jpg"
     },
     {
-        "name": "Проект 1",
+        "name": "Трудности перевода",
         "descr": "Описание проекта 1",
-        "link": "http://example.com/project1",
+        "link": "https://tilekbeki.github.io/Servier/src/",
         "img": "img/works/bread.jpg"
     },
     {
-        "name": "Проект 1",
+        "name": "MyMedGram",
         "descr": "Описание проекта 1",
-        "link": "http://example.com/project1",
+        "link": "https://tilekbeki.github.io/MyMedGram/",
+        "img": "img/works/bread.jpg"
+    },
+    {
+        "name": "Гастрарекс",
+        "descr": "Описание проекта 1",
+        "link": "https://tilekbeki.github.io/Unipharm-new/",
         "img": "img/works/bread.jpg"
     },
     {
@@ -28,5 +34,35 @@
         "descr": "Лендинг про мазь от вирусов",
         "link": "https://tilekbeki.github.io/virus/",
         "img": "img/works/bread.jpg"
+    },
+    {
+        "name": "Evusheld",
+        "descr": "Лендинг про мазь от вирусов",
+        "link": "https://tilekbeki.github.io/virus/",
+        "img": "img/works/Evusheld.jpg"
+    },
+    {
+        "name": "Ubber",
+        "descr": "Лендинг про мазь от вирусов",
+        "link": "https://tilekbeki.github.io/ubber/src/",
+        "img": "img/works/Evusheld.jpg"
+    },
+    {
+        "name": "Pnevmat312",
+        "descr": "Лендинг про мазь от вирусов",
+        "link": "https://tilekbeki.github.io/ubber/src/",
+        "img": "img/works/Evusheld.jpg"
+    },
+    {
+        "name": "Marvel portal",
+        "descr": "Лендинг про мазь от вирусов",
+        "link": "https://tilekbeki.github.io/marvelService/",
+        "img": "img/works/Evusheld.jpg"
+    },
+    {
+        "name": "Викторина",
+        "descr": "Лендинг про мазь от вирусов",
+        "link": "https://tilekbeki.github.io/russianVictorina/src/",
+        "img": "img/works/Evusheld.jpg"
     }
 ]
